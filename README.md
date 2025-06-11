@@ -1,5 +1,10 @@
 # Pet Adoption RESTAPIs
 This repository provides basic API endpoints for client app ex: Android app
+
+Features:
+1. Pet CRUD (Create-Read-Update-Delete) operations
+2. Pet Search ex: `GET /api/pets/?species=cat&age=2.0`
+
 ## Initial setup
 ### Softwares
 Required softwares:
